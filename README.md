@@ -24,6 +24,6 @@ To write a python program to find the inverse of a matrix
  <img width="400" height="400" alt="{145934CD-1B68-4F40-85A9-F8B51303430C}" src="https://github.com/user-attachments/assets/09af36eb-661b-417e-966c-22dc74127b73" />
  <img width="400" height="400" alt="{B07F6B39-59A8-43EA-A7EA-31BE881A8355}" src="https://github.com/user-attachments/assets/713ba134-fe6f-4a55-94ae-b422c9e1c73d" />
 
-## Result:
+## Result:Thus the inverse of given matrix is successfully solved using python program
 Thus the inverse of given matrix is successfully solved using python program
 
